@@ -1,0 +1,2 @@
+# trainsch
+hw 7
